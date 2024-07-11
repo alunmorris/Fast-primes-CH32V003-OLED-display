@@ -4,7 +4,7 @@ The display is a 128x32 OLED.
 
 Demo at https://www.youtube.com/watch?v=rPzlua1Xw1I
 
-Developed on PlatformIO using the CH32V003fun minimalist environment https://github.com/cnlohr/ch32v003fun
+Developed on PlatformIO to test out the CH32V003fun minimalist environment https://github.com/cnlohr/ch32v003fun
 
 ## Repository overview
 The repositry contains C code, a font file and PlatformIO environment files.
