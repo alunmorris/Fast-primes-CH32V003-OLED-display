@@ -7,4 +7,4 @@ Demo at https://www.youtube.com/watch?v=rPzlua1Xw1I
 Developed on PlatformIO using the CH32V003fun minimalist environment https://github.com/cnlohr/ch32v003fun
 
 ## Repository overview
-The repositry contains C code and PlatformIO environment files.
+The repositry contains C code, a font file and PlatformIO environment files.
